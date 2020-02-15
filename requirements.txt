@@ -1,5 +1,4 @@
 keras
 numpy
 pandas
-re
 sklearn
